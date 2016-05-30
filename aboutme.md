@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Underappreciated South Asian
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+### Hi, I’m Ali. 
+I make websites (well, I try) and write very hacky scripts. I recently convinced myself to blog about all the strange things I encounter while programming. I notice that I end up googling the same answers to trivial (and some not so trivial) problems frequently so I thought, “why not keep them all in one place? Someone else might also find my solution (read: jugaar) [urdu - slang for a very hacky solution to a problem] useful.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+#### Here are a few other things I do:
+- I like learning about new technologies
+- I'm a very try hard Dota player
+- Sometimes when I get bored I play guitar
+- Deep House is life *undst undst undst*
+- I'm currently really into Electronic Music Production with FL Studio
+- On wednesdays I wear pink
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
