@@ -102,7 +102,7 @@ Implemented MIT’s Chord Like Distributed Hash Table in Java, a multi user inte
 ---
 
 
-# Aditional Work Experience
+# Additional Work Experience
 
 ---
 
