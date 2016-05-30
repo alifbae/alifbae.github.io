@@ -15,3 +15,5 @@ I make websites (well, I try) and write very hacky scripts. I recently convinced
 - I'm currently really into Electronic Music Production with FL Studio
 - On wednesdays I wear pink
 
+PS: If you feel like hitting me up, check the footer for my contact information :)
+
