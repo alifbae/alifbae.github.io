@@ -80,7 +80,6 @@ paginate: 5
 
 kramdown:
   input: GFM
-  hand_wrap: false
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
@@ -154,6 +153,3 @@ prose:
 
 gems:
   - jekyll-paginate
-
-# Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189

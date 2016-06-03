@@ -88,7 +88,7 @@ Replicated an Android Application developed by Vectrasoft for MTN South Africa c
 
 ---
 
-#### Digital Historical Archive— LUMS
+#### Digital Historical Archive — LUMS
 Currently working in collaboration with the LUMS Department of History, on developing a digital historical archive (using Ruby on Rails) of the families and people affected by terrorism in South Asia.
 
 #### faceclone — Senior Project
