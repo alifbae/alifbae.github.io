@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Resume
+subtitle: Is this enough to make me hirable?
 ---
 
 [Download PDF](https://drive.google.com/open?id=0B8VFo9UB4caManRIZmRyTmZiWlZXSkRMOUJ6ckVldWt5XzVv)
