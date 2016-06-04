@@ -153,3 +153,4 @@ prose:
 
 gems:
   - jekyll-paginate
+  - jekyll-gist
