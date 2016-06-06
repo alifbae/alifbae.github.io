@@ -4,7 +4,7 @@ title: Resume
 subtitle: Is this enough to make me hirable?
 ---
 
-[Download PDF](https://drive.google.com/open?id=0B8VFo9UB4caManRIZmRyTmZiWlZXSkRMOUJ6ckVldWt5XzVv)
+[Download PDF](https://drive.google.com/open?id=0B8VFo9UB4caMNF9iWUlIRDdqOEk)
 
 ---
 
@@ -12,7 +12,7 @@ subtitle: Is this enough to make me hirable?
 
 ---
 
-#### Lahore University of Management Sciences, Lahore —  BS Computer Science
+#### Lahore University of Management Sciences, Lahore —  _BS Computer Science_
 
 ##### AUGUST 2012 - PRESENT
 Selected Coursework: Distributed Systems, Advanced Programming, Computer Networks, Technology Entrepreneurship.
@@ -36,7 +36,7 @@ TPI is an initiative funded by Google and The World Bank to find technology-base
 #### LUMS Computer Science Department, Lahore — _Research Intern_
 
 ##### JUNE 2015 - JULY 2015
-Wrote a web scraper in python for collecting data of online US newspaper articles (~200k articles) to facilitate ongoing research in determining biases in news via machine learning and sentiment analysis. 
+Wrote a web scraper in python for collecting data of online US newspaper articles (~200k articles) to facilitate ongoing research in determining biases in news via machine learning and sentiment analysis. [Click here to see the github repository](https://github.com/alif-bae/news-data-extraction)
 
 #### VectraSoft Pvt. Ltd, Karachi — _Android Intern_
 
@@ -56,6 +56,7 @@ Replicated an Android Application developed by Vectrasoft for MTN South Africa c
 | HTML + CSS | Intermediate |
 | SQL | Intermediate |
 | Java | Intermediate |
+| C++ | Intermediate |
 | PHP | Novice |
 | Javascript | Novice |
 | Bash | Novice |
@@ -69,6 +70,7 @@ Replicated an Android Application developed by Vectrasoft for MTN South Africa c
 - Web scraping (Scrappy, Selenium)
 - Tweet Mining (Tweepy)
 - Amazon Web Services
+- Google Cloud Platform
 - Heroku
 - Ruby on Rails
 - Bootstrap 
@@ -88,16 +90,16 @@ Replicated an Android Application developed by Vectrasoft for MTN South Africa c
 
 ---
 
-#### Digital Historical Archive — LUMS
+#### [Digital Historical Archive — _LUMS_](https://github.com/alif-bae/victims_of_terrorism)
 Currently working in collaboration with the LUMS Department of History, on developing a digital historical archive (using Ruby on Rails) of the families and people affected by terrorism in South Asia.
 
-#### faceclone — Senior Project
+#### [faceclone — _Senior Project_](https://github.com/alif-bae/faceclone)
 Creating a facebook like social media application in Ruby on Rails focusing on scalability from the ground up as part of my senior project.
 
-#### Distributed Password Cracker — Computer Networks Term Project
+#### [Distributed Password Cracker — _Computer Networks Term Project_](https://github.com/alif-bae/dht-bittorrent)
 Implemented a multithreaded, multi-worker, load balanced and fault tolerant password hash cracker in Java.
 
-#### DHT BitTorrent Network — Computer Networks Term Project
+#### DHT BitTorrent Network — _Computer Networks Term Project_
 Implemented MIT’s Chord Like Distributed Hash Table in Java, a multi user interface for distributed file sharing across a local network. 
 
 ---
