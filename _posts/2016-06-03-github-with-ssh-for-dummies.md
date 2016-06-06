@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Setup SSH on linux with github (for dummies)
-subtitle: Yes, I consider myself a dummy
+subtitle: Maybe I consider myself a dummy
 ---
 
 lets be real, if you've been using an http remote to push your commits to github you probably already hate your life for having to keep re-entering your username and password ALL THE GODDAMNED TIME!  
