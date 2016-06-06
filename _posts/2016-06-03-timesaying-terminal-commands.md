@@ -38,3 +38,19 @@ curl ifconfig.me
 
 This will display your current external IP address which your machine uses to communicate to the web.
 
+### Quick ASCII Table
+
+You've probably needed to look at an ASCII table at one point or another, and then you've probably had to google for it. Guess what, linux's man pages provides an in built one!
+
+~~~
+$ man ascii
+~~~
+
+### Terminal Star Wars
+
+Okay this one has less to do with work and more to do with appreciating the sheer amount of hours put into making this happen. Watch an ASCII based star wars right in your terminal!
+
+~~~
+$ telnet towel.blinkenlights.nl
+~~~
+
