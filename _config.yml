@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://alif-bae.github.io"
+url: "https://alif-bae.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -17,13 +17,14 @@ baseurl: ""
 title: alif.bae
 
 # Short description of your site
-description: Programming totkay
+description: "made some mistakes, still here."
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Music: "music"
   Resume: "resume"
   # Resources:
   #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
@@ -41,10 +42,7 @@ avatar: "/img/prof_pic_circ.png"
 author:
   name: Ali Fawad
   email: "m.alifawad@gmail.com"
-  facebook: m.alifawad  # eg. daattali
   github: alif-bae    # eg. daattali
-  twitter: yourname   # eg. daattali
-  linkedin: yourlink  # eg. "pub/dean-attali/8/946/143"
   stackoverflow: alifawad1994  # eg. "3943160/daattali"
 
 # Select which links to show in the footer
@@ -55,14 +53,15 @@ footer-links-active:
   twitter: false
   github: true
   linkedin: false
-  stackoverflow: false
+  stackoverflow: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-# url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "https://alif-bae.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
-# --- Misc --- #
-
+# ------------------------ #
+# --------- Misc --------- #
+# ------------------------ #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
 disqus: "alifbaegithubio"
 
@@ -72,12 +71,12 @@ google_analytics: "UA-78556370-1"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Asia/Karachi"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
-
+paginate: 10
+encoding: utf-8
 kramdown:
   input: GFM
 
@@ -105,6 +104,8 @@ exclude:
   - README.md
   - CNAME
   - Vagrantfile
+
+plugins_dir: [jekyll-paginate, jekyll-gist, jekyll-tagging]
 
 # prose.io config
 prose:
@@ -154,3 +155,8 @@ prose:
 gems:
   - jekyll-paginate
   - jekyll-gist
+
+# for jekyll-tag
+tag_page_layout: tag_page
+tag_page_dir: tag
+tag_permalink_style: pretty

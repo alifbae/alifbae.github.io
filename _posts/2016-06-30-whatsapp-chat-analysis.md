@@ -12,20 +12,19 @@ We'll be using two tools for our analysis:
 -- https://github.com/wheatear/wordsworth
 
 ## Analysing with Wordsworth
+
 	
-	
-#### Clone the repository
-  	
+##### Clone the repository
 ~~~
 $ git clone https://github.com/wheatear/wordsworth
 ~~~
 
-#### Install Dependencies 
+##### Install Dependencies 
 
 Step 1a: Install pip (if you don't have it already)
 
 ~~~
-$sudo apt-get install python-pip
+$ sudo apt-get install python-pip
 ~~~
 
 Step 1b: Install python NLTK
@@ -49,7 +48,7 @@ Step 3: Download the ```Brown``` and ```Punkt``` dataset
 >>> nltk.download('punkt')
 ```
 
-Step 5: Get blessings
+Step 4: Get blessings 
   Before you get started you need to install the python blessings library to colorize the terminal output. 
 	
 
@@ -57,7 +56,7 @@ Step 5: Get blessings
 $ sudo pip install blessings
 ```
 
-Step 6: Run wordsworth
+Step 5: Run wordsworth
   Okay we can finally run the analyser we've set up.
   Print the top 50-ngrams in textfile.txt
 

@@ -117,6 +117,8 @@ GEM
     jekyll-sitemap (1.0.0)
       jekyll (~> 3.3)
     jekyll-swiss (0.4.0)
+    jekyll-tagging (1.1.0)
+      nuggets
     jekyll-theme-architect (0.0.4)
       jekyll (~> 3.3)
     jekyll-theme-cayman (0.0.4)
@@ -167,6 +169,7 @@ GEM
     net-dns (0.8.0)
     nokogiri (1.8.0)
       mini_portile2 (~> 2.2.0)
+    nuggets (1.5.0)
     octokit (4.7.0)
       sawyer (~> 0.8.0, >= 0.5.3)
     pathutil (0.14.0)
@@ -207,6 +210,7 @@ DEPENDENCIES
   jekyll
   jekyll-gist
   jekyll-paginate
+  jekyll-tagging
   therubyracer
 
 BUNDLED WITH
