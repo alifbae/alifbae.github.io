@@ -63,10 +63,3 @@ Step 5: Run wordsworth
 ~~~
 python wordsworth.py --filename textfile.txt --top 50-ngrams
 ~~~
-
-#### Example Output 
-![1](https://github.com/wheatear/wordsworth/raw/master/screenshots/screenshot3.png?raw=true)
-
-![2](https://github.com/wheatear/wordsworth/raw/master/screenshots/screenshot6.png?raw=true)
-  
-![3](https://github.com/wheatear/wordsworth/raw/master/screenshots/screenshot7.png?raw=true)

@@ -53,4 +53,3 @@ Okay this one has less to do with work and more to do with appreciating the shee
 ~~~
 $ telnet towel.blinkenlights.nl
 ~~~
-

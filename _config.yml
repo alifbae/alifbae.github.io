@@ -25,7 +25,7 @@ description: "made some mistakes, still here."
 navbar-links:
   About Me: "aboutme"
   Music: "music"
-  Resume: "resume"
+  # Resume: "resume"
   # Resources:
   #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #   - Learn markdown: "http://www.markdowntutorial.com/"
