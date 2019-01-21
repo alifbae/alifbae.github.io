@@ -57,7 +57,7 @@ Sarmad in the middle of deploying
 Friends From Creative Chaos
 ![enter image description here](https://s3-us-west-2.amazonaws.com/elasticbeanstalk-us-west-2-193438877255/personal_blog/cc_at_10p.jpg) 
 
-The Presenters (from left to right) -> Shehzad Ali, Ali Fawad, Usman Iman, Akif Ateef, Sarmad Sabih, Ali Ahmed
+The Presenters (from left to right) -> Shehzad Ali, Ali Fawad, Usman Imam, Akif Ateef, Sarmad Sabih, Ali Ahmed
 ![enter image description here](https://s3-us-west-2.amazonaws.com/elasticbeanstalk-us-west-2-193438877255/personal_blog/presenters)
 
 ### A Closing Note
