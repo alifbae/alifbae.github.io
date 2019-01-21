@@ -79,6 +79,7 @@ I'd like to thank 10Pearls for hosting this event, my colleagues from Creative C
  - Slides:
 	 - [Deploy Like A Pro](https://slides.com/sarmadsabih/ruby-meetup-dlp)
 	 - [Background Jobs in Rails](https://docs.google.com/presentation/d/1-BNbyHAr3Y4pkFH_w7ScDdKB2ucJExyNZq8mxGDO9Uo/edit?usp=sharing)
-
+	 - [Integrating JS frameworks in Rails applications](https://slides.com/aliahmed922/working-with-js-in-rails#/)
+	 - [Authentication and Authorization in Rails](https://docs.google.com/presentation/d/1X9vp_IeV-KBmOg_IHalkDrN-7BsX7tDyN2d_VPkHBvU/edit#slide=id.p)
  
 
