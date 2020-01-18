@@ -1,3 +1,3 @@
-Theme forked from: https://github.com/daattali/beautiful-jekyll
+# My Jekyll Site
 
-Made using <3 and Jekyll. 
+## Copyright 2020 Ali Fawad 
