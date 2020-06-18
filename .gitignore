@@ -1,11 +1,5 @@
-# project
 _site
 .sass-cache
-.vagrant
-preloaded-posts
-misc
-
-# general
-.DS_Store
-Thumbs.db
-ehthumbs.db
+.jekyll-cache
+.jekyll-metadata
+vendor
